@@ -1,0 +1,6 @@
+{
+  "name": "All India Latest Job",
+  "description": "Premium alert app for Indian Government jobs (Sarkari Naukri), results, admit cards, key notifications, and saved bookmarks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
